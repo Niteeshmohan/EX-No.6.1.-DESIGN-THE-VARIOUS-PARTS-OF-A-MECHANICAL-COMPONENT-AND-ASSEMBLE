@@ -64,7 +64,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 ![eig](6.1.png)
-![eig](6.1 o.png)
+![eig](out.png)
 
 
 ## RESULT:
